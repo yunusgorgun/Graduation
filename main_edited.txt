@@ -1,1 +1,2 @@
 This is an edited version of main_deneme.txt
+I decided to edit it again due to compare second branch and main branch.
